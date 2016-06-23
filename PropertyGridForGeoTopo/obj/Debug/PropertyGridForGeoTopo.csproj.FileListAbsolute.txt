@@ -1,0 +1,10 @@
+F:\Practice\PropertyGridForGeoTopo\PropertyGridForGeoTopo\bin\Debug\PropertyGridForGeoTopo.exe.config
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\bin\Debug\PropertyGridForGeoTopo.exe.config
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\bin\Debug\PropertyGridForGeoTopo.exe
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\bin\Debug\PropertyGridForGeoTopo.pdb
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\obj\Debug\PropertyGridForGeoTopo.frmSettings.resources
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\obj\Debug\PropertyGridForGeoTopo.Properties.Resources.resources
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\obj\Debug\PropertyGridForGeoTopo.csproj.GenerateResource.Cache
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\obj\Debug\PropertyGridForGeoTopo.exe
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\obj\Debug\PropertyGridForGeoTopo.pdb
+F:\My_Task\PropertyGridForGeoTopo\PropertyGridForGeoTopo\obj\Debug\PropertyGridForGeoTopo.csprojResolveAssemblyReference.cache
